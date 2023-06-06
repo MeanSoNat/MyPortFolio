@@ -41,7 +41,7 @@ const project = [
     language: "Python",
     path: "https://github.com/MeanSoNat/KNN.git",
   },
-  { title: "Pokedex", language: "TypeScript", path: "" },
+  { title: "Pokedex", language: "TypeScript", path: "https://github.com/MeanSoNat/Pokedex.git" },
 ];
 
 export default function profile() {
